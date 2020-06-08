@@ -1,0 +1,96 @@
+enemies.png
+size: 500, 338
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box
+  rotate: false
+  xy: 0, 0
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+car (1)
+  rotate: false
+  xy: 80, 0
+  size: 150, 138
+  orig: 150, 138
+  offset: 0, 0
+  index: -1
+car (2)
+  rotate: false
+  xy: 230, 0
+  size: 150, 138
+  orig: 150, 138
+  offset: 0, 0
+  index: -1
+dog (1)
+  rotate: false
+  xy: 380, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+dog (2)
+  rotate: false
+  xy: 0, 138
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+dog (3)
+  rotate: false
+  xy: 100, 138
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+dog (4)
+  rotate: false
+  xy: 200, 138
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+dog (5)
+  rotate: false
+  xy: 300, 138
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+dog (6)
+  rotate: false
+  xy: 400, 138
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+dog (7)
+  rotate: false
+  xy: 0, 238
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+dog (8)
+  rotate: false
+  xy: 100, 238
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+plane (1)
+  rotate: false
+  xy: 200, 238
+  size: 111, 76
+  orig: 111, 76
+  offset: 0, 0
+  index: -1
+plane (2)
+  rotate: false
+  xy: 311, 238
+  size: 111, 76
+  orig: 111, 76
+  offset: 0, 0
+  index: -1
